@@ -15,11 +15,15 @@
 
 Стартовое меню:
 
-![image](https://raw.githubusercontent.com/German-D/tg_credit_cards/main/static/bot_menu.png)
+![image](https://raw.githubusercontent.com/Kristoonchik95/tg_credit_cards-main/refs/heads/main/tg_credit_cards-main/static/menu.jpg)
 
-После выбора карты Visa:
+После выбора карты JCB:
 
-![image](https://raw.githubusercontent.com/German-D/tg_credit_cards/main/static/visa_card.png)
+![image](https://raw.githubusercontent.com/Kristoonchik95/tg_credit_cards-main/refs/heads/main/tg_credit_cards-main/static/jcb.jpg)
+
+Если текст не совпал ни с одной кнопкой:
+
+![image](https://raw.githubusercontent.com/Kristoonchik95/tg_credit_cards-main/refs/heads/main/tg_credit_cards-main/static/error.jpg)
 
 
 ## 💻 Технологии
@@ -61,4 +65,4 @@ python3 card_bot.py
 
 ## Автор
 
-Герман Дольников ([@dolnikov](https://t.me/dolnikov))
+Кристина Трофимова ([@TKris95](https://t.me/@TKris95))
